@@ -51,8 +51,6 @@ COPY --from=builder /tmp/dumb-init/dumb-init /usr/bin/
 
 COPY --from=builder /usr/share/zoneinfo /usr/share/zoneinfo
 
-COPY --from=builder /bin/ls /bin/ls
-
 USER nobody
 
 EXPOSE 53000/tcp
