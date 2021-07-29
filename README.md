@@ -28,7 +28,7 @@ docker run --rm -it --link dnscrypt alpine sh -c "apk add bind-tools; dig +dnsse
 
 ## How to use?
 
-Create a *dnscrypt-proxy* container using the image default configuration file.
+Create a *dnscrypt-proxy* container using the image's default configuration file.
 
 ```bash
 docker run -d -p 53:53000/tcp -p 53:53000/udp eisimoes/dnscrypt-proxy
