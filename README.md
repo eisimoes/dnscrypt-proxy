@@ -1,11 +1,12 @@
 # Dockerfile for dnscrypt-proxy
 
-![DNSCrypt logo](https://user-images.githubusercontent.com/31744379/127190173-92056864-f7d6-41fa-8888-cc6ab591c24b.png)
+[![DNSCrypt logo](https://user-images.githubusercontent.com/31744379/127190173-92056864-f7d6-41fa-8888-cc6ab591c24b.png)](https://github.com/eisimoes/dnscrypt-proxy)
 
-![Latest Release](https://badgen.net/github/release/eisimoes/dnscrypt-proxy?color=blue&label=Latest%20Release)
-![Latest Tag](https://badgen.net/github/tag/eisimoes/dnscrypt-proxy?color=blue&label=Latest%20Tag)
-![Open Issues](https://badgen.net/github/open-issues/eisimoes/dnscrypt-proxy?color=blue&label=Open%20Issues)
-![License](https://badgen.net/github/license/eisimoes/dnscrypt-proxy?color=blue&label=License)
+[![GitHub Discussions](https://badgen.net/badge/GitHub/Discussions?color=blue&icon=github)](https://github.com/eisimoes/dnscrypt-proxy/discussions)
+[![Latest Release](https://badgen.net/github/release/eisimoes/dnscrypt-proxy?color=blue&label=Latest%20Release)](https://github.com/eisimoes/dnscrypt-proxy/releases)
+[![Latest Tag](https://badgen.net/github/tag/eisimoes/dnscrypt-proxy?color=blue&label=Latest%20Tag)](https://github.com/eisimoes/dnscrypt-proxy/tags)
+[![Open Issues](https://badgen.net/github/open-issues/eisimoes/dnscrypt-proxy?color=blue&label=Open%20Issues)](https://github.com/eisimoes/dnscrypt-proxy/issues)
+[![License](https://badgen.net/github/license/eisimoes/dnscrypt-proxy?color=blue&label=License)](https://github.com/eisimoes/dnscrypt-proxy/blob/master/LICENSE)
 
 
 This Dockerfile was originally created to build arm32v7 images of dnscrypt-proxy (for use in Raspberry Pi 4). However, it can be used to build images for other architectures as well.
