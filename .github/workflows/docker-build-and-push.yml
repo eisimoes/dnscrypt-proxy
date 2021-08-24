@@ -7,9 +7,6 @@ on:
         description: 'DNSCrypt Proxy Release'
         required: true
 
-permissions:
-  actions: read
-
 jobs:
   build:
 
